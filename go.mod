@@ -1,4 +1,4 @@
-module github.com/threeandtwo/darwin
+module github.com/CoinSummer/go-utils
 
 go 1.19
 
